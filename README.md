@@ -1,7 +1,7 @@
-
-**Mobile Sales Dashboard (Power BI)**
+## Mobile Sales Dashboard (Power BI)
 
 An interactive Power BI Dashboard Analyzing Mobile Sales Data across various factors to get useful insights.
+
 ---
 
 ##  Project Overview
@@ -24,7 +24,7 @@ This is an interactive Power BI dashboard designed to analyze mobile phone sales
 
 This project uses a **fictional dataset** consisting of **3,836 rows and 14 columns**, representing mobile sales transactions across India.
 
-###  Column Names:
+### Column Names:
 
 - `Transaction ID` , `Day` , `Month` , `Year` , `Day Name`  
 - `Brand` , `Units Sold` , `Price Per Unit` , `Customer Name`  
@@ -62,7 +62,7 @@ The dataset simulates diverse customer purchases across popular mobile brands li
 
 ##  Dashboard Preview
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/harsh-dataportfolio/Power-Bi-Mobile-Sales-Dashboard/blob/main/Power%20BI%20Dashoard%20SS%201.png)
 
 
 ---
